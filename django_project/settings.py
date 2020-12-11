@@ -25,7 +25,7 @@ SECRET_KEY = '_0-1wof$0_!x5r8a7$08zz2&77w0npjb5&w(+9*2y15ebrv3wh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://trial02-cyberexpert.herokuapp.com/', '127.0.0.1']
 
 
 # Application definition
